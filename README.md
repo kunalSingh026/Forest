@@ -16,12 +16,12 @@ Detailed Information: Each destination includes in-depth details about the fores
 Interactive Elements: Engage with clickable elements to explore more about each destination and its unique offerings.
 Customizable: Easily modify the content and design to fit your specific needs and preferences.
 ## Demo
-Check out the live demo here .
+Check out the live demo here https://kunalsingh026.github.io/Forest/.
 
 ## Installation
 To get started with this project, clone the repository and open the project folder:
 
-git clone https://github.com/yourusername/forest-tourism-website.git
+git clone https://github.com/kunalSingh026/forest-tourism-website.git
 cd forest-tourism-website
 
 ## Usage
