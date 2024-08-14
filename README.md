@@ -1,4 +1,3 @@
-#Forest
 Forest Tourism Website
 Welcome to our Forest Tourism Website! This project showcases the beauty and adventure of forest tours around the world, providing users with an immersive and informative experience.
 
@@ -17,12 +16,12 @@ Detailed Information: Each destination includes in-depth details about the fores
 Interactive Elements: Engage with clickable elements to explore more about each destination and its unique offerings.
 Customizable: Easily modify the content and design to fit your specific needs and preferences.
 Demo
-Check out the live demo https://kunalsingh026.github.io/Forest/.
+Check out the live demo here .
 
 Installation
 To get started with this project, clone the repository and open the project folder:
 
-git clone https://github.com/kunalsingh026/forest-tourism-website.git
+git clone https://github.com/yourusername/forest-tourism-website.git
 cd forest-tourism-website
 
 Usage
@@ -38,4 +37,4 @@ Contributing
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more details
+This project is licensed under the MIT License. See the LICENSE file for more details.
