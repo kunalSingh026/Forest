@@ -1,4 +1,5 @@
-#Forest Tourism Website
+#Forest
+Forest Tourism Website
 Welcome to our Forest Tourism Website! This project showcases the beauty and adventure of forest tours around the world, providing users with an immersive and informative experience.
 
 Table of Contents
@@ -21,7 +22,7 @@ Check out the live demo https://kunalsingh026.github.io/Forest/.
 Installation
 To get started with this project, clone the repository and open the project folder:
 
-git clone https://github.com/yourusername/forest-tourism-website.git
+git clone https://github.com/kunalsingh026/forest-tourism-website.git
 cd forest-tourism-website
 
 Usage
